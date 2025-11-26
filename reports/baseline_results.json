@@ -1,0 +1,11 @@
+{
+    "Linear Regression": {
+        "description": "Baseline model using standard scaling and linear regression",
+        "metrics": {
+            "mse": 0.03866144149454257,
+            "rmse": 0.19662512935670906,
+            "mae": 0.15529483485748097,
+            "r2": 0.9532471681022928
+        }
+    }
+}

@@ -1,0 +1,5 @@
+# EDA Summary
+
+The analysis of 2,392 student records reveals that the dataset is high-quality with no missing values. The most significant insight is the dominant negative correlation (-0.92) between Absences and GPA, indicating that attendance is the primary predictor of academic success. Secondary factors like Parental Support, Tutoring, and Weekly Study Time show a minor positive influence, while demographic and extracurricular features appear statistically irrelevant. Crucially, we identified 'GradeClass' as a source of data leakage, as it is directly derived from the GPA, and determined it must be removed to ensure the model produces valid predictions.
+
+To illustrate the impact of attendance, the data shows a stark contrast: a student with 0 absences typically achieves a GPA near 3.5 to 4.0. In comparison, a student with 25 or more absences almost invariably sees their GPA drop below 1.0. This demonstrates that in this specific environment, academic consistency is far more impactful than demographic background or extracurricular participation.
