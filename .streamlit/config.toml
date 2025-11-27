@@ -2,3 +2,5 @@
 base="light"
 font="monospace"
 
+[server]
+headless=true
