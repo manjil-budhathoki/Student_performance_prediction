@@ -7,3 +7,5 @@ jupyterlab
 shap
 xgboost
 lightgbm
+streamlit
+plotly
