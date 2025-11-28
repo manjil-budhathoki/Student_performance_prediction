@@ -164,4 +164,4 @@ This project is for educational purposes.
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/manjil-budhathoki/Student_performance_prediction)
-- [Live Demo](https://studentperformanceprediction-4emwdtwcrznxgzbqp6pcjs.streamlit.app/) *(if deployed)*
+- [Live Demo](https://studentperformancepredictiongit-kieqe46vo62nunnqnrrwcv.streamlit.app/)
